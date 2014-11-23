@@ -1,0 +1,8 @@
+<nav search_view="search">
+  <view name="sdiff-adv" default='true' />
+  <view name="search" />
+  <view name="data_models" />
+  <view name="reports" />
+  <view name="alerts" />
+  <view name="dashboards" />
+</nav>

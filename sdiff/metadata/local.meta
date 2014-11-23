@@ -1,0 +1,6 @@
+[nav/default]
+access = read : [ * ], write : [ * ]
+export = none
+owner = nobody
+version = 6.0
+modtime = 1383537130.349854000
